@@ -1,1 +1,1 @@
-clan://localhost/Download/KAITV/KAITV.json
+clan://localhost/tvbox/ec920439-0fe4-4413-82c7-8a91e9b0db33/KAITV/KAITV.json
