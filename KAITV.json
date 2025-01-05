@@ -2,7 +2,7 @@
   "spider": "https://kaitv.imkay.us.kg/wy357251/KAITV/main/KAYVID.jar",
   "lives": [
     {
-      "name": "①live(EXO)",
+      "name": "①live",
       "type": 0,
       "url": "https://kaitv.imkay.us.kg/wy357251/KAITV/main/lib/KAYVID.txt",
       "ua": "okhttp/3",
@@ -11,8 +11,17 @@
       "logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "①live(EXO)",
+      "type": 1,
+      "url": "https://kaitv.imkay.us.kg/wy357251/KAITV/main/lib/KAYVID.txt",
+      "ua": "okhttp/3",
+      "playerType": 2,
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "②Live(IJK)",
-      "type": 0,
+      "type": 2,
       "url": "https://kaitv.imkay.us.kg/wy357251/KAITV/main/lib/KAYVID.txt",
       "playerType": 1,
       "ua": "okhttp/3",
