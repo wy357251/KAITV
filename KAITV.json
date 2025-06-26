@@ -4,7 +4,7 @@
     {
       "name": "①live(EXO)",
       "type": 0,
-      "url": "./lib/KAYVID.txt",
+      "url": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/KAYVID.txt",
       "ua": "okhttp/3",
       "playerType": 2,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -13,7 +13,7 @@
     {
       "name": "②Live(IJK)",
       "type": 0,
-      "url": "./lib/KAYVID.txt",
+      "url": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/KAYVID.txt",
       "playerType": 1,
       "ua": "okhttp/3",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
