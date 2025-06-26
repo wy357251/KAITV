@@ -1,10 +1,10 @@
 {
-  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/KAYVID.jar",
+  "spider": "./KAYVID.jar",
   "lives": [
     {
       "name": "①live(EXO)",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/KAYVID.txt",
+      "url": "./lib/KAYVID.txt",
       "ua": "okhttp/3",
       "playerType": 2,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -13,7 +13,7 @@
     {
       "name": "②Live(IJK)",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/KAYVID.txt",
+      "url": "./lib/KAYVID.txt",
       "playerType": 1,
       "ua": "okhttp/3",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -60,8 +60,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/lf_live10_min-output.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/lf_live.json"
+      "api": "./lib/lf_live10_min-output.js",
+      "ext": "./lib/lf_live.json"
     },
     {
       "key": "alllive",
@@ -81,12 +81,12 @@
       "key": "好趣网",
       "name": "🎦┃KAYVID┃好趣网",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 87,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/好趣网.js"
+      "ext": "./lib/好趣网.js"
     },
     {
       "key": "荐片",
@@ -278,7 +278,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/nmys.json"
+      "ext": "./lib/nmys.json"
     },
     {
       "key": "嫖嫖嫖",
@@ -582,7 +582,7 @@
       "key": "皮皮虾_js",
       "name": "👨‍🍳‍┃KAYVID┃皮皮虾",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -673,12 +673,12 @@
       "key": "js_subaibai",
       "name": "🎦┃KAYVID┃白白影视",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/素白白[优].js"
+      "ext": "./lib/素白白[优].js"
     },
     {
       "key": "csp_XYQHiker_农民影视",
@@ -688,7 +688,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/农民影视.json"
+      "ext": "./lib/农民影视.json"
     },
     {
       "key": "csp_XYQHiker_七新影视",
@@ -698,7 +698,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/七新影视.json"
+      "ext": "./lib/七新影视.json"
     },
     {
       "key": "csp_XYQHiker_可可影视",
@@ -708,18 +708,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/可可影视.json"
+      "ext": "./lib/可可影视.json"
     },
     {
       "key": "hipy_js_黑木耳资源[资]",
       "name": "🎦┃KAYVID┃木耳资源",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/黑木耳资源[资].js"
+      "ext": "./lib/黑木耳资源[资].js"
     },
     {
       "key": "360zy",
@@ -768,23 +768,23 @@
       "key": "hipy_js_哔哩影视[官]",
       "name": "🎦┃KAYVID┃哔哩影视",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 73,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/哔哩影视[官].js"
+      "ext": "./lib/哔哩影视[官].js"
     },
     {
       "key": "hipy_js_4k剧院",
       "name": "🎦┃KAYVID┃4k剧院",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 6,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/4k剧院.js"
+      "ext": "./lib/4k剧院.js"
     },
     {
       "key": "茶狐杯",
@@ -794,7 +794,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/茶狐杯.json"
+      "ext": "./lib/茶狐杯.json"
     },
     {
       "key": "奈飞影视",
@@ -804,7 +804,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/ynfys.json"
+      "ext": "./lib/ynfys.json"
     },
     {
       "key": " 百姓 ",
@@ -834,12 +834,12 @@
       "key": "hipy_js_TVB云播",
       "name": "🎦┃KAYVID┃TVB云播",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/TVB云播.js"
+      "ext": "./lib/TVB云播.js"
     },
     {
       "key": "csp_vs",
@@ -849,7 +849,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/vsys.json"
+      "ext": "./lib/vsys.json"
     },
     {
       "key": "4K影视",
@@ -859,7 +859,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/4K影视.json"
+      "ext": "./lib/4K影视.json"
     },
     {
       "key": "csp_xBPQ_奇优",
@@ -869,7 +869,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/qiyou.json"
+      "ext": "./lib/qiyou.json"
     },
     {
       "key": "HDmoli",
@@ -879,7 +879,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/HDmoli.json"
+      "ext": "./lib/HDmoli.json"
     },
     {
       "key": "csp_xBPQ睛天影视",
@@ -889,7 +889,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/睛天影视.json"
+      "ext": "./lib/睛天影视.json"
     },
     {
       "key": "非凡资源",
@@ -899,18 +899,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/ffzy.json"
+      "ext": "./lib/ffzy.json"
     },
     {
       "key": "宝片视频_js",
       "name": "👨‍🍳‍┃KAYVID┃宝片视频",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/宝片视频.js"
+      "ext": "./lib/宝片视频.js"
     },
     {
       "key": "木偶网盘",
@@ -1261,12 +1261,12 @@
       "key": "央视大全",
       "name": "🌔┃KAYVID┃央视大全",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/央视大全.js"
+      "ext": "./lib/央视大全.js"
     },
     {
       "key": "bili_戏曲",
@@ -1282,7 +1282,7 @@
       },
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
-        "json": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/哔哩戏曲.json"
+        "json": "./lib/哔哩戏曲.json"
       },
       "timeout": 20
     },
@@ -1300,7 +1300,7 @@
       },
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
-        "json": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/哔哩相声.json"
+        "json": "./lib/哔哩相声.json"
       },
       "timeout": 20
     },
@@ -1318,7 +1318,7 @@
       },
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
-        "json": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/哔哩综合.json"
+        "json": "./lib/哔哩综合.json"
       },
       "timeout": 20
     },
@@ -1336,7 +1336,7 @@
       },
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
-        "json": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/演唱会.json"
+        "json": "./lib/演唱会.json"
       },
       "timeout": 20
     },
@@ -1354,7 +1354,7 @@
       },
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
-        "json": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/女团热舞.json"
+        "json": "./lib/女团热舞.json"
       },
       "timeout": 20
     },
@@ -1389,7 +1389,7 @@
       },
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
-        "json": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/哔哩合集.txt"
+        "json": "./lib/哔哩合集.txt"
       },
       "timeout": 20
     },
@@ -1407,7 +1407,7 @@
       },
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
-        "json": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/学习园地.json"
+        "json": "./lib/学习园地.json"
       },
       "timeout": 20
     },
@@ -1425,7 +1425,7 @@
       },
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
-        "json": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/学外语.json"
+        "json": "./lib/学外语.json"
       },
       "timeout": 20
     },
@@ -1433,11 +1433,11 @@
       "key": "哔哩直播",
       "name": "🅱️┃KAYVID┃哔哩直播",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/blzb.js"
+      "ext": "./lib/blzb.js"
     },
     {
       "key": "88看球",
@@ -1455,8 +1455,8 @@
       "key": "jrsjs",
       "name": "⚽┃KAYVID┃Jrs球迷",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.txt?file=drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/jrs.txt",
+      "api": "./lib/drpy2.min.txt?file=drpy2.min.js",
+      "ext": "./lib/jrs.txt",
       "style": {
         "type": "list"
       },
@@ -1472,31 +1472,31 @@
       "key": "hipy_js_360吧[球]",
       "name": "⚽┃KAYVID┃360吧[球]",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "playerType": "1",
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/360吧[球].js"
+      "ext": "./lib/360吧[球].js"
     },
     {
       "key": "926tv[球]_js",
       "name": "⚽┃KAYVID┃926tv[球](drpy_t3)",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/926tv[球].js"
+      "ext": "./lib/926tv[球].js"
     },
     {
       "key": "310js",
       "name": "⚽┃KAYVID┃310看球",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.txt?file=drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/310.txt",
+      "api": "./lib/drpy2.min.txt?file=drpy2.min.js",
+      "ext": "./lib/310.txt",
       "style": {
         "type": "list"
       },
@@ -1523,18 +1523,18 @@
       "key": "虎牙直播",
       "name": "🐯┃KAYVID┃虎牙直播",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/huyazhibo.js"
+      "ext": "./lib/huyazhibo.js"
     },
     {
       "key": "斗鱼js",
       "name": "🐟┃KAYVID┃斗鱼直播",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/斗鱼直播.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -1560,20 +1560,20 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/爱动漫.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/爱动漫.js",
       "timeout": 15
     },
     {
       "key": "hipy_js_贝乐虎[儿]",
       "name": "🐯┃KAYVID┃贝乐虎[儿]",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/贝乐虎[儿].js"
+      "ext": "./lib/贝乐虎[儿].js"
     },
     {
       "key": "csp_XYQHiker_兔小贝",
@@ -1583,7 +1583,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/兔小贝.json"
+      "ext": "./lib/兔小贝.json"
     },
     {
       "key": "csp_XYQHiker_兔小贝2",
@@ -1593,7 +1593,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/兔小贝2.json"
+      "ext": "./lib/兔小贝2.json"
     },
     {
       "key": "csp_XYQHiker_播视童趣",
@@ -1603,31 +1603,31 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/播视童趣.json"
+      "ext": "./lib/播视童趣.json"
     },
     {
       "key": "博看听书",
       "name": "📚️┃KAYVID┃听书博看",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/博看听书.js"
+      "ext": "./lib/博看听书.js"
     },
     {
       "key": "六月听书",
       "name": "📚️┃KAYVID┃听书六月",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/六月听书.js"
+      "ext": "./lib/六月听书.js"
     },
     {
       "key": "csp_Kugou",
@@ -1643,12 +1643,12 @@
       "key": "hipy_js_KTV歌厅[听]",
       "name": "🎤┃KAYVID┃KTV歌厅",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/KTV歌厅[听].js"
+      "ext": "./lib/KTV歌厅[听].js"
     },
     {
       "key": "DJ呦呦音乐网",
@@ -1658,14 +1658,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/DJyyyyw.json"
+      "ext": "./lib/DJyyyyw.json"
     },
     {
       "key": "酷奇",
       "name": "🎤┃KAYVID┃酷奇MV",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/酷奇MV.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1678,11 +1678,11 @@
       "key": "js_a8音乐",
       "name": "🎸┃KAYVID┃A8音乐",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/a8yy.js"
+      "ext": "./lib/a8yy.js"
     }
   ],
   "parses": [
