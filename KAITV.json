@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/nabMvOwJ.png;md5;08b83c70b451a731de60bde3857c027d",
+  "spider": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/KAYVID.png;md5;f7de4a6a445354df4a588f4468e32e73",
   "sites": [
     {
       "key": "豆瓣",
@@ -122,10 +122,10 @@
       "timeout": 25
     },
     {
-      "key": "表哥",
-      "name": "👨🏻‍🦱┃KAYVID┃表哥┃4K",
+      "key": "百家",
+      "name": "👨🏻‍🦱┃KAYVID┃百家┃4K",
       "type": 3,
-      "api": "csp_DbgGuard",
+      "api": "csp_BaijiaGuard",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -202,10 +202,30 @@
       "timeout": 25
     },
     {
+      "key": "极狐",
+      "name": "🦊┃KAYVID┃极狐┃4K",
+      "type": 3,
+      "api": "csp_Fox4kGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
       "key": "盘他",
       "name": "🎸┃KAYVID┃盘他┃4K",
       "type": 3,
       "api": "csp_PantaGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "海绵",
+      "name": "🧽┃KAYVID┃海绵┃4K",
+      "type": 3,
+      "api": "csp_HaiMianGuard",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -218,6 +238,16 @@
       "api": "csp_LeiJingGuard",
       "quickSearch": 1,
       "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "123分享",
+      "name": "🌂┃KAYVID┃123┃4K",
+      "type": 3,
+      "api": "csp_Time123Guard",
+      "quickSearch": 0,
+      "changeable": 0,
       "filterable": 1,
       "timeout": 25
     },
@@ -301,16 +331,6 @@
       "timeout": 10
     },
     {
-      "key": "素白白",
-      "name": "🐇┃KAYVID┃白白┃直连",
-      "type": 3,
-      "api": "csp_SubaibaiGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
       "key": "小红",
       "name": "🐷┃KAYVID┃小红┃App",
       "type": 3,
@@ -331,16 +351,6 @@
       "timeout": 10
     },
     {
-      "key": "时常",
-      "name": "🐥┃KAYVID┃时常┃App",
-      "type": 3,
-      "api": "csp_ShiChangGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
       "key": "咖啡",
       "name": "🍫┃KAYVID┃咖啡┃App",
       "type": 3,
@@ -351,30 +361,10 @@
       "timeout": 10
     },
     {
-      "key": "晴天",
-      "name": "💘┃KAYVID┃晴天┃App",
-      "type": 3,
-      "api": "csp_Sun4kGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
       "key": "仓鼠",
       "name": "🐹┃KAYVID┃仓鼠┃App",
       "type": 3,
       "api": "csp_CangShuGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "榴莲",
-      "name": "🍋┃KAYVID┃榴莲┃App",
-      "type": 3,
-      "api": "csp_LiulianGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -514,7 +504,7 @@
       "name": "🦋┃KAYVID┃阿里┃合集",
       "type": 3,
       "api": "csp_AliShareGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "filterable": 0,
       "indexs": 0,
@@ -535,6 +525,28 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10
+    },
+    {
+      "key": "黑木耳",
+      "name": "🌻┃KAYVID┃木耳┃无广",
+      "type": 1,
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "playUrl": "json:http://127.0.0.1:9978/proxy?do=parse&from=heimuer&url=",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+      },
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "日本动漫",
+        "港剧",
+        "韩剧",
+        "欧美剧",
+        "国产综艺"
+      ]
     },
     {
       "key": "星芽短剧",
@@ -865,10 +877,10 @@
       "timeout": 25
     },
     {
-      "key": "爱盘",
-      "name": "❤️┃KAYVID┃爱盘┃搜索",
+      "key": "音海",
+      "name": "❤️┃KAYVID┃音海┃搜索",
       "type": 3,
-      "api": "csp_AiPanGuard",
+      "api": "csp_YinHaiGuard",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -879,16 +891,6 @@
       "name": "🙀┃KAYVID┃盘搜┃搜索",
       "type": 3,
       "api": "csp_PanSoGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 25
-    },
-    {
-      "key": "影搜",
-      "name": "😼┃KAYVID┃影子┃搜索",
-      "type": 3,
-      "api": "csp_YingSoGuard",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -915,10 +917,10 @@
       "timeout": 25
     },
     {
-      "key": "逸搜",
-      "name": "🌧┃KAYVID┃逸搜┃搜索",
+      "key": "找盘",
+      "name": "🌧┃KAYVID┃找盘┃搜索",
       "type": 3,
-      "api": "csp_TianYiSoGuard",
+      "api": "csp_V2PanGuard",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -1050,7 +1052,7 @@
     {
       "name": "live①",
       "type": 0,
-      "url": "https://raw.kkgithub.com/wy357251/KAITV/main/lib/KAYVID.txt",
+      "url": "https://iptv.kayhub.com/tv.m3u?url=https://iptv.kayhub.com/",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1,
       "timeout": 10
