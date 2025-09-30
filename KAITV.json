@@ -1,9 +1,9 @@
 {
-  "spider": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/KAYVID.png;md5;db9e24529dc557e87f378d8da73146cf",
+  "spider": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/KAYVID.png;md5;8b2c4e21d3c4c5d9920824dcb111ba96",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🎟┃KAYVID┃己巳年9.10更新🎉",
+      "name": "🎟┃KAYVID┃祖国🇨🇳生日快乐",
       "type": 3,
       "api": "csp_DoubanGuard",
       "searchable": 0,
@@ -109,10 +109,10 @@
       "timeout": 25
     },
     {
-      "key": "百家",
-      "name": "👨🏻‍🦱┃KAYVID┃百家┃4K",
+      "key": "小飒",
+      "name": "👨🏻‍🦱┃KAYVID┃小飒┃4K",
       "type": 3,
-      "api": "csp_BaijiaGuard",
+      "api": "csp_XsayangGuard",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -123,16 +123,6 @@
       "name": "💌┃KAYVID┃至臻┃4K",
       "type": 3,
       "api": "csp_ZhiZhenGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25
-    },
-    {
-      "key": "闪电",
-      "name": "🌈┃KAYVID┃闪电┃4K",
-      "type": 3,
-      "api": "csp_ShanDianGuard",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -159,14 +149,17 @@
       "timeout": 25
     },
     {
-      "key": "校长",
-      "name": "💮┃KAYVID┃小章┃4K",
+      "key": "百度趣盘",
+      "name": "🤪┃KAYVID┃度趣┃4K",
       "type": 3,
-      "api": "csp_XiaoZhangGuard",
+      "api": "csp_BaiduQuPanGuard",
       "searchable": 1,
       "filterable": 1,
-      "changeable": 1,
-      "timeout": 30
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 25
     },
     {
       "key": "光影",
@@ -175,7 +168,7 @@
       "api": "csp_GuanyingGuard",
       "searchable": 1,
       "filterable": 1,
-      "changeable": 1,
+      "changeable": 0,
       "timeout": 30
     },
     {
@@ -299,16 +292,6 @@
       "name": "🍎┃KAYVID┃苹果┃直连",
       "type": 3,
       "api": "csp_XpgGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "加菲",
-      "name": "🐱┃KAYVID┃加菲┃App",
-      "type": 3,
-      "api": "csp_JiaFeiGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -511,6 +494,16 @@
       "timeout": 10
     },
     {
+      "key": "电影天堂",
+      "name": "🎞️┃KAYVID┃天堂┃采集",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
       "key": "星芽短剧",
       "name": "💖┃KAYVID┃星芽┃短剧",
       "type": 3,
@@ -578,6 +571,16 @@
       "searchable": 1,
       "changeable": 0,
       "timeout": 20
+    },
+    {
+      "key": "聚合直播",
+      "name": "📽️┃KAYVID┃聚合┃直播",
+      "type": 3,
+      "api": "csp_LivingGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "timeout": 10
     },
     {
       "key": "快手直播",
