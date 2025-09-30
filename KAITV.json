@@ -1006,8 +1006,8 @@
     {
       "name": "live①",
       "type": 0,
-      "url": "https://iptv.kayhub.com/tv.m3u?url=https://iptv.kayhub.com/",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "url": "https://github.356635.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp?ch={name}&date={date}",
       "playerType": 1,
       "timeout": 10
     }
