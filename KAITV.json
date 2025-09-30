@@ -1006,7 +1006,7 @@
     {
       "name": "live①",
       "type": 0,
-      "url": "https://github.356635.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/refs/heads/main/lib/KAYVID.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp?ch={name}&date={date}",
       "playerType": 1,
       "timeout": 10
