@@ -9,17 +9,17 @@
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "./lib/douban.json"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/douban.json"
     },
     {
       "key": "网盘配置",
       "name": "👨‍🍳‍┃KAYVID┃配置中心",
       "type": 3,
-      "jar": "./lib/pg.jar;md5;e38eae28a7e71dab9a634f9b650c3460",
+      "jar": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/pg.jar;md5;e38eae28a7e71dab9a634f9b650c3460",
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json"
     },
     {
       "key": "yydsys",
@@ -30,7 +30,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/wogg.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/wogg.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/wogg.json"
     },	
     {
       "key": "Wogg",
@@ -41,7 +41,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/wogg.json$$$http://wogg.xxooo.cf/$$$noproxy$$$1$$$./lib/wogg.json"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/wogg.json$$$http://wogg.xxooo.cf/$$$noproxy$$$1$$$https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/wogg.json"
     },
     {
       "key": "Mogg",
@@ -52,7 +52,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/wogg.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/wogg.json$$$http://mogg.top/$$$noproxy$$$1$$$https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/wogg.json"
     },
     {
       "key": "yyds",
@@ -63,7 +63,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/wogg.json$$$https://tv.yydsys.cc/$$$proxy$$$1$$$./lib/wogg.json"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/wogg.json$$$https://tv.yydsys.cc/$$$proxy$$$1$$$https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/wogg.json"
     },
     {
       "key": "夸克至臻",
@@ -74,7 +74,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/wogg.json$$$https://mihdr.top$$$noproxy$$$1$$$./lib/wogg.json"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/wogg.json$$$https://mihdr.top$$$noproxy$$$1$$$https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/wogg.json"
     },
     {
       "key": "夸克奥秘",
@@ -85,7 +85,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/wogg.json$$$https://vip.omii.top$$$noproxy$$$1$$$./lib/wogg.json"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/wogg.json$$$https://vip.omii.top$$$noproxy$$$1$$$https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/wogg.json"
     },
     {
       "key": "蜡笔网盘",
@@ -96,7 +96,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/wogg.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/wogg.json$$$https://duopan.fun/$$$noproxy$$$1$$$https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/wogg.json"
     },
     {
       "key": "Hdhive",
@@ -107,7 +107,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$proxy$$$1"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json$$$proxy$$$1"
     },
     {
       "key": "Ppxzy",
@@ -118,7 +118,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
     },
     {
       "key": "Libvio",
@@ -129,24 +129,24 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.libvio.fun/$$$null"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json$$$https://www.libvio.fun/$$$null"
     },
     {
       "key": "hipy_js_低端",
       "name": "┃KAYVID┃在线",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/低端.js"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/低端.js"
     },
     {
       "key": "苹果影视",
       "name": "┃KAYVID┃苹果",
       "type": 3,
-      "jar": "./lib/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+      "jar": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
       "api": "csp_LiteApple",
       "playerType": 1,
       "searchable": 1,
@@ -158,14 +158,14 @@
       "name": "┃KAYVID┃动漫",
       "type": 3,
       "playerType": 1,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/爱弹幕.js"
+      "api": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/爱弹幕.js"
     },
     {
       "key": "星芽短剧",
       "name": "┃KAYVID┃星芽",
       "type": 3,
-      "jar": "./lib/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+      "jar": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
       "api": "csp_AppXY",
       "searchable": 1,
       "quickSearch": 0,
@@ -175,24 +175,24 @@
       "key": "爱你短剧",
       "name": "┃KAYVID┃爱你",
       "type": 3,
-      "jar": "./lib/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+      "jar": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/爱你短剧.json"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/爱你短剧.json"
     },
     {
       "key": "哔嘀影视",
       "name": "┃KAYVID┃哔嘀",
       "type": 3,
-      "jar": "./lib/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+      "jar": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
       "api": "csp_XYQHiker",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/哔嘀影视.json"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/哔嘀影视.json"
     },
     {
       "key": "贱贱",
@@ -202,8 +202,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jp.js"
+      "api": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/jp.js"
     },
     {
       "key": "布谷tv",
@@ -213,7 +213,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/XBPQ.jar",
+      "jar": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/XBPQ.jar",
       "ext": {
         "搜索链接": "https://www.bugutv.org/?cat=&s={wd}",
         "简介": "◎简*介</p>&&</p>",
@@ -244,7 +244,7 @@
         "播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
         "播放列表": "<ul>&&</div>[包含:magnet]"
       },
-      "jar": "./lib/XBPQ.jar"
+      "jar": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/XBPQ.jar"
     },
     {
       "key": "新6V",
@@ -254,14 +254,14 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
     },
     {
       "key": "磁力熊",
       "name": "┃KAYVID┃磁力熊",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/磁力熊.js"
+      "api": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/磁力熊.js"
     },
     {
       "key": "Xunlei8",
@@ -283,8 +283,8 @@
       "key": "drpy_js_酷吧",
       "name": "┃KAYVID┃酷吧",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/kuba.js",
+      "api": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/drpy2.min.js",
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/kuba.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 60
@@ -295,7 +295,7 @@
       "type": 3,
       "api": "csp_YingSo",
       "timeout": 60,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json"
     },
     {
       "key": "小纸条",
@@ -305,7 +305,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/tokenm.json$$$https://ali.gitcafe.ink/$$$null$$$1"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json$$$https://ali.gitcafe.ink/$$$null$$$1"
     },
     {
       "key": "TGYunPan",
@@ -313,7 +313,7 @@
       "type": 3,
       "api": "csp_TGYunPan",
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1"
     },
     {
       "key": "PanSearch",
@@ -324,7 +324,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json"
     },
     {
       "key": "易搜",
@@ -335,7 +335,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/yiso.txt$$$./lib/yiso.txt"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/yiso.txt$$$https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/yiso.txt"
     },
     {
       "key": "Qianfan",
@@ -346,7 +346,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://pan.qianfan.app/$$$null$$$./lib/qianfan.txt$$$1"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json$$$https://pan.qianfan.app/$$$null$$$https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/qianfan.txt$$$1"
     },
     {
       "key": "秒搜",
@@ -354,7 +354,7 @@
       "type": 3,
       "api": "csp_MiaoSou",
       "timeout": 60,
-      "ext": "./lib/tokenm.json",
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -369,7 +369,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json",
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -384,7 +384,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1"
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1"
     },
     {
       "key": "PikaSo",
@@ -395,7 +395,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.pikaso.top/$$$null",
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json$$$https://www.pikaso.top/$$$null",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -407,7 +407,7 @@
       "type": 3,
       "api": "csp_HunHePan",
       "timeout": 60,
-      "ext": "./lib/tokenm.json",
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -423,7 +423,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json$$$https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/alishare.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -439,7 +439,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/ucshare.txt$$$db$$$1",
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json$$$https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/ucshare.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -455,7 +455,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/quarkshare.txt$$$./lib/quarkshare.txt",
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/quarkshare.txt$$$https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/quarkshare.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -471,7 +471,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 120,
-      "ext": "./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
+      "ext": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/tokenm.json$$$https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/115share.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -542,7 +542,7 @@
     {
       "name": "live.ipv6.local",
       "type": 0,
-      "url": "./lib/live.ipv6.txt",
+      "url": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/live.ipv6.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
@@ -561,7 +561,7 @@
       "name": "YTLive",
       "type": 0,
       "playerType": 1,
-      "url": "./lib/yo21.txt"
+      "url": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/yo21.txt"
     },
     {
       "name": "直播",
@@ -575,7 +575,7 @@
       "name": "TXT",
       "type": 0,
       "playerType": 1,
-      "url": "./lib/live.txt",
+      "url": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/lib/live.txt",
       "epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
