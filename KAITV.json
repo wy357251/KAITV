@@ -1,9 +1,9 @@
 {
-  "spider": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/KAYVID.png;md5;8cf13b6465f75602fb5024c14a06fbe9",
+  "spider": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/KAYVID.png;md5;a23597945658123f7fd45848c6d5bba1",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🎟┃KAYVID┃双十一🛍️购物快乐",
+      "name": "🎟┃KAYVID┃12.1更新🎉",
       "type": 3,
       "api": "csp_DoubanGuard",
       "searchable": 0,
@@ -37,7 +37,7 @@
     },
     {
       "key": "二小",
-      "name": "🦢二小┃4K",
+      "name": "🦢┃KAYVID┃二小4K",
       "type": 3,
       "api": "csp_ErXiaoGuard",
       "searchable": 1,
@@ -48,7 +48,7 @@
     },
     {
       "key": "双星",
-      "name": "🤩┃KAYVID┃双星┃4K",
+      "name": "🤩┃KAYVID┃双星4K",
       "type": 3,
       "api": "csp_Star2Guard",
       "searchable": 1,
@@ -61,7 +61,7 @@
     },
     {
       "key": "玩偶",
-      "name": "👽┃KAYVID┃玩偶┃4K",
+      "name": "👽┃KAYVID┃玩偶4K",
       "type": 3,
       "api": "csp_WoggGuard",
       "searchable": 1,
@@ -71,7 +71,7 @@
     },
     {
       "key": "立播版",
-      "name": "🐰┃KAYVID┃立播┃4K",
+      "name": "🐰┃KAYVID┃立播4K",
       "type": 3,
       "api": "csp_LibvioGuard",
       "searchable": 1,
@@ -81,7 +81,7 @@
     },
     {
       "key": "蜡笔",
-      "name": "👠┃KAYVID┃蜡笔┃4K",
+      "name": "👠┃KAYVID┃蜡笔4K",
       "type": 3,
       "api": "csp_LabiGuard",
       "searchable": 1,
@@ -92,7 +92,7 @@
     },
     {
       "key": "木偶",
-      "name": "🪵┃KAYVID┃木偶┃4K",
+      "name": "🪵┃KAYVID┃木偶4K",
       "type": 3,
       "api": "csp_MuouGuard",
       "searchable": 1,
@@ -103,7 +103,7 @@
     },
     {
       "key": "多多",
-      "name": "🪅┃KAYVID┃多多┃4K",
+      "name": "🪅┃KAYVID┃多多4K",
       "type": 3,
       "api": "csp_DuoDuoGuard",
       "searchable": 1,
@@ -114,7 +114,7 @@
     },
     {
       "key": "小飒",
-      "name": "👨🏻‍🦱┃KAYVID┃小飒┃4K",
+      "name": "👨🏻‍🦱┃KAYVID┃小飒4K",
       "type": 3,
       "api": "csp_XsayangGuard",
       "searchable": 1,
@@ -125,7 +125,7 @@
     },
     {
       "key": "至臻",
-      "name": "💌┃KAYVID┃至臻┃4K",
+      "name": "💌┃KAYVID┃至臻4K",
       "type": 3,
       "api": "csp_ZhiZhenGuard",
       "searchable": 1,
@@ -136,7 +136,7 @@
     },
     {
       "key": "虎斑",
-      "name": "🐯┃KAYVID┃虎斑┃4K",
+      "name": "🐯┃KAYVID┃虎斑4K",
       "type": 3,
       "api": "csp_HuBanGuard",
       "searchable": 1,
@@ -147,7 +147,7 @@
     },
     {
       "key": "SeedHub",
-      "name": "🍀┃KAYVID┃SeedHub┃4K",
+      "name": "🍀┃KAYVID┃SeedHub4K",
       "type": 3,
       "api": "csp_SeedHubGuard",
       "searchable": 1,
@@ -157,21 +157,8 @@
       "timeout": 25
     },
     {
-      "key": "百度趣盘",
-      "name": "🤪┃KAYVID┃度趣┃4K",
-      "type": 3,
-      "api": "csp_BaiduQuPanGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 25
-    },
-    {
       "key": "光影",
-      "name": "🎥┃KAYVID┃光影┃4K",
+      "name": "🎥┃KAYVID┃光影4K",
       "type": 3,
       "api": "csp_GuanyingGuard",
       "searchable": 1,
@@ -181,7 +168,7 @@
     },
     {
       "key": "云集",
-      "name": "🍊┃KAYVID┃云集┃4K",
+      "name": "🍊┃KAYVID┃云集4K",
       "type": 3,
       "api": "csp_YunJiGuard",
       "searchable": 1,
@@ -192,7 +179,7 @@
     },
     {
       "key": "极狐",
-      "name": "🦊┃KAYVID┃极狐┃4K",
+      "name": "🦊┃KAYVID┃极狐4K",
       "type": 3,
       "api": "csp_Fox4kGuard",
       "searchable": 1,
@@ -203,7 +190,7 @@
     },
     {
       "key": "盘他",
-      "name": "🎸┃KAYVID┃盘他┃4K",
+      "name": "🎸┃KAYVID┃盘他4K",
       "type": 3,
       "api": "csp_PantaGuard",
       "searchable": 1,
@@ -214,7 +201,7 @@
     },
     {
       "key": "海绵",
-      "name": "🧽┃KAYVID┃海绵┃4K",
+      "name": "🧽┃KAYVID┃海绵4K",
       "type": 3,
       "api": "csp_HaiMianGuard",
       "searchable": 1,
@@ -225,7 +212,7 @@
     },
     {
       "key": "雷鲸",
-      "name": "🐳┃KAYVID┃雷鲸┃4K",
+      "name": "🐳┃KAYVID┃雷鲸4K",
       "type": 3,
       "api": "csp_LeiJingGuard",
       "searchable": 1,
@@ -236,7 +223,7 @@
     },
     {
       "key": "123分享",
-      "name": "🌂┃KAYVID┃123┃4K",
+      "name": "🌂┃KAYVID┃1234K",
       "type": 3,
       "api": "csp_Time123Guard",
       "searchable": 1,
@@ -247,7 +234,7 @@
     },
     {
       "key": "瓜子",
-      "name": "🍉┃KAYVID┃瓜子┃App",
+      "name": "🍉┃KAYVID┃瓜子",
       "type": 3,
       "api": "csp_GuaziGuard",
       "searchable": 1,
@@ -258,7 +245,7 @@
     },
     {
       "key": "热播",
-      "name": "📺┃KAYVID┃热播┃App",
+      "name": "📺┃KAYVID┃热播",
       "type": 3,
       "api": "csp_TianTianGuard",
       "searchable": 1,
@@ -272,7 +259,7 @@
     },
     {
       "key": "文才",
-      "name": "🌺┃KAYVID┃文才┃在线",
+      "name": "🌺┃KAYVID┃文才",
       "type": 3,
       "api": "csp_JpysGuard",
       "searchable": 1,
@@ -283,7 +270,7 @@
     },
     {
       "key": "糯米",
-      "name": "🍓┃KAYVID┃糯米┃秒播",
+      "name": "🍓┃KAYVID┃糯米",
       "type": 3,
       "api": "csp_NmysGuard",
       "searchable": 1,
@@ -294,7 +281,7 @@
     },
     {
       "key": "浪酷版",
-      "name": "👓┃KAYVID┃浪酷┃秒播",
+      "name": "👓┃KAYVID┃浪酷",
       "type": 3,
       "api": "csp_TianTianGuard",
       "searchable": 1,
@@ -308,7 +295,7 @@
     },
     {
       "key": "小苹果",
-      "name": "🍎┃KAYVID┃苹果┃直连",
+      "name": "🍎┃KAYVID┃苹果",
       "type": 3,
       "api": "csp_XpgGuard",
       "searchable": 1,
@@ -319,7 +306,7 @@
     },
     {
       "key": "云云",
-      "name": "☁️┃KAYVID┃云云┃App",
+      "name": "☁️┃KAYVID┃云云",
       "type": 3,
       "api": "csp_YunYunGuard",
       "searchable": 1,
@@ -330,7 +317,7 @@
     },
     {
       "key": "雄鹰",
-      "name": "🦅┃KAYVID┃雄鹰┃App",
+      "name": "🦅┃KAYVID┃雄鹰",
       "type": 3,
       "api": "csp_XiongYingGuard",
       "searchable": 1,
@@ -341,7 +328,7 @@
     },
     {
       "key": "咖啡",
-      "name": "🍫┃KAYVID┃咖啡┃App",
+      "name": "🍫┃KAYVID┃咖啡",
       "type": 3,
       "api": "csp_KaFeiGuard",
       "searchable": 1,
@@ -352,7 +339,7 @@
     },
     {
       "key": "一起",
-      "name": "📺┃KAYVID┃一起┃秒播",
+      "name": "📺┃KAYVID┃一起",
       "type": 3,
       "api": "csp_YqsGuard",
       "searchable": 1,
@@ -363,7 +350,7 @@
     },
     {
       "key": "仓鼠",
-      "name": "🐹┃KAYVID┃仓鼠┃App",
+      "name": "🐹┃KAYVID┃仓鼠",
       "type": 3,
       "api": "csp_CangShuGuard",
       "searchable": 1,
@@ -374,7 +361,7 @@
     },
     {
       "key": "韩圈",
-      "name": "🦄┃KAYVID┃韩圈┃App",
+      "name": "🦄┃KAYVID┃韩圈",
       "type": 3,
       "api": "csp_HanXiaoQuanGuard",
       "playerType": 2,
@@ -386,7 +373,7 @@
     },
     {
       "key": "厂长",
-      "name": "🌸┃KAYVID┃厂长┃直连",
+      "name": "🌸┃KAYVID┃厂长",
       "type": 3,
       "api": "csp_CzzyGuard",
       "searchable": 1,
@@ -396,8 +383,18 @@
       "timeout": 10
     },
     {
+      "key": "csp_Btt",
+      "name": "🌞┃KAYVID┃比特",
+      "type": 3,
+      "api": "csp_BttGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 10
+    },
+    {
       "key": "荐片",
-      "name": "⚔️┃KAYVID┃荐片┃手机",
+      "name": "⚔️┃KAYVID┃荐片",
       "type": 3,
       "api": "csp_JianpianGuard",
       "searchable": 1,
@@ -408,7 +405,7 @@
     },
     {
       "key": "我的夸克",
-      "name": "🗽┃KAYVID┃我的┃夸克",
+      "name": "🗽┃KAYVID┃夸克",
       "type": 3,
       "api": "csp_MyQuarkGuard",
       "searchable": 0,
@@ -423,7 +420,7 @@
     },
     {
       "key": "我的UC",
-      "name": "😼┃KAYVID┃我的┃UC",
+      "name": "😼┃KAYVID┃UC",
       "type": 3,
       "api": "csp_MyUcGuard",
       "searchable": 0,
@@ -438,7 +435,7 @@
     },
     {
       "key": "我的百度",
-      "name": "☘️┃KAYVID┃我的┃百度",
+      "name": "☘️┃KAYVID┃百度",
       "type": 3,
       "api": "csp_MyBaiduGuard",
       "searchable": 0,
@@ -453,7 +450,7 @@
     },
     {
       "key": "我的123",
-      "name": "🌂┃KAYVID┃我的┃123",
+      "name": "🌂┃KAYVID┃123",
       "type": 3,
       "api": "csp_My123Guard",
       "searchable": 0,
@@ -468,7 +465,7 @@
     },
     {
       "key": "我的天逸",
-      "name": "🧽┃KAYVID┃我的┃天逸",
+      "name": "🧽┃KAYVID┃天逸",
       "type": 3,
       "api": "csp_My189Guard",
       "searchable": 0,
@@ -483,7 +480,7 @@
     },
     {
       "key": "我的115",
-      "name": "🌷┃KAYVID┃我的┃115",
+      "name": "🌷┃KAYVID┃115",
       "type": 3,
       "api": "csp_My115Guard",
       "searchable": 0,
@@ -498,7 +495,7 @@
     },
     {
       "key": "我的阿里",
-      "name": "🐱┃KAYVID┃我的┃阿里",
+      "name": "🐱┃KAYVID┃阿里",
       "type": 3,
       "api": "csp_MyAliGuard",
       "searchable": 0,
@@ -513,7 +510,7 @@
     },
     {
       "key": "️爱看Bot",
-      "name": "⛅️┃KAYVID┃爱看┃直连",
+      "name": "⛅️┃KAYVID┃爱看",
       "type": 3,
       "api": "csp_IkanbotGuard",
       "searchable": 1,
@@ -524,7 +521,7 @@
     },
     {
       "key": "电影天堂",
-      "name": "🎞️┃KAYVID┃天堂┃采集",
+      "name": "🎞️┃KAYVID┃天堂",
       "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
       "searchable": 1,
@@ -534,7 +531,7 @@
     },
     {
       "key": "锦鲤短剧",
-      "name": "🐟┃KAYVID┃锦鲤┃短剧",
+      "name": "🐟┃KAYVID┃锦鲤短剧",
       "type": 3,
       "api": "csp_JinliGuard",
       "searchable": 1,
@@ -545,7 +542,7 @@
     },
     {
       "key": "星芽短剧",
-      "name": "💖┃KAYVID┃星芽┃短剧",
+      "name": "💖┃KAYVID┃星芽短剧",
       "type": 3,
       "api": "csp_AppXYGuard",
       "searchable": 1,
@@ -556,7 +553,7 @@
     },
     {
       "key": "甜圈短剧",
-      "name": "🌸┃KAYVID┃甜圈┃短剧",
+      "name": "🌸┃KAYVID┃甜圈短剧",
       "type": 3,
       "api": "csp_TianQuanGuard",
       "searchable": 1,
@@ -566,18 +563,8 @@
       "timeout": 10
     },
     {
-      "key": "csp_Btt",
-      "name": "🌞┃KAYVID┃比特┃在线",
-      "type": 3,
-      "api": "csp_BttGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 10
-    },
-    {
       "key": "yhdm",
-      "name": "🌸┃KAYVID┃樱花┃动漫",
+      "name": "🌸┃KAYVID┃樱花动漫",
       "type": 3,
       "api": "csp_YHDMGuard",
       "searchable": 1,
@@ -588,7 +575,7 @@
     },
     {
       "key": "动漫巴士",
-      "name": "🚌┃KAYVID┃巴士┃动漫",
+      "name": "🚌┃KAYVID┃巴士动漫",
       "type": 3,
       "api": "csp_Dm84Guard",
       "searchable": 1,
@@ -599,7 +586,7 @@
     },
     {
       "key": "新6V",
-      "name": "🧲┃KAYVID┃新6V┃磁力",
+      "name": "🧲┃KAYVID┃新6V",
       "type": 3,
       "api": "csp_Xb6vGuard",
       "searchable": 1,
@@ -609,7 +596,7 @@
     },
     {
       "key": "聚合直播",
-      "name": "📽️┃KAYVID┃聚合┃直播",
+      "name": "📽️┃KAYVID┃直播",
       "type": 3,
       "api": "csp_LivingGuard",
       "searchable": 0,
@@ -620,7 +607,7 @@
     },
     {
       "key": "快手直播",
-      "name": "😎┃KAYVID┃快手┃直播",
+      "name": "😎┃KAYVID┃快手",
       "type": 3,
       "api": "csp_KsLiveGuard",
       "searchable": 0,
@@ -635,7 +622,7 @@
     },
     {
       "key": "虎牙直播",
-      "name": "🐯┃KAYVID┃虎牙┃直播",
+      "name": "🐯┃KAYVID┃虎牙",
       "type": 3,
       "api": "csp_HuyaGuard",
       "searchable": 0,
@@ -650,7 +637,7 @@
     },
     {
       "key": "瓜子看球",
-      "name": "⚽┃KAYVID┃瓜子┃看球",
+      "name": "⚽┃KAYVID┃看球",
       "type": 3,
       "api": "csp_GzSportGuard",
       "searchable": 0,
@@ -663,7 +650,7 @@
     },
     {
       "key": "88看球",
-      "name": "⚽┃KAYVID┃88┃看球",
+      "name": "⚽┃KAYVID┃88看球",
       "type": 3,
       "api": "csp_KanqiuGuard",
       "searchable": 0,
@@ -676,7 +663,7 @@
     },
     {
       "key": "世界听书",
-      "name": "🎸┃KAYVID┃世界┃听书",
+      "name": "🎸┃KAYVID┃听书",
       "type": 3,
       "api": "csp_BookTingGuard",
       "searchable": 1,
@@ -686,7 +673,7 @@
     },
     {
       "key": "bilimd",
-      "name": "🅱┃KAYVID┃哔哩┃影视",
+      "name": "🅱┃KAYVID┃哔哩",
       "type": 3,
       "api": "csp_BilimdGuard",
       "searchable": 1,
@@ -701,7 +688,7 @@
     },
     {
       "key": "bili",
-      "name": "🅱┃KAYVID┃哔哩┃合集",
+      "name": "🅱┃KAYVID┃哔哩",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
@@ -719,7 +706,7 @@
     },
     {
       "key": "biliych",
-      "name": "🅱┃KAYVID┃哔哩┃歌曲",
+      "name": "🅱┃KAYVID┃歌曲",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 0,
@@ -737,7 +724,7 @@
     },
     {
       "key": "bilixs",
-      "name": "🅱┃KAYVID┃哔哩┃相声",
+      "name": "🅱┃KAYVID┃相声",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 0,
@@ -755,7 +742,7 @@
     },
     {
       "key": "bilixp",
-      "name": "🅱┃KAYVID┃哔哩┃小品",
+      "name": "🅱┃KAYVID┃小品",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 0,
@@ -773,7 +760,7 @@
     },
     {
       "key": "少儿教育",
-      "name": "📚┃KAYVID┃少儿┃教育",
+      "name": "📚┃KAYVID┃少儿",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -789,7 +776,7 @@
     },
     {
       "key": "小学课堂",
-      "name": "📚┃KAYVID┃小学┃课堂",
+      "name": "📚┃KAYVID┃小学",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -805,7 +792,7 @@
     },
     {
       "key": "初中课堂",
-      "name": "📚┃KAYVID┃初中┃课堂",
+      "name": "📚┃KAYVID┃初中",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -821,7 +808,7 @@
     },
     {
       "key": "高中教育",
-      "name": "📚┃KAYVID┃高中┃课堂",
+      "name": "📚┃KAYVID┃高中",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -851,7 +838,7 @@
     },
     {
       "key": "csp_QuPanSouGuard",
-      "name": "🤓┃KAYVID┃趣盘┃搜索",
+      "name": "🤓┃KAYVID┃趣盘",
       "type": 3,
       "api": "csp_QuPanSouGuard",
       "searchable": 1,
@@ -861,7 +848,7 @@
     },
     {
       "key": "太极",
-      "name": "☯️┃KAYVID┃太极┃搜索",
+      "name": "☯️┃KAYVID┃太极",
       "type": 3,
       "api": "csp_TaiChiGuard",
       "searchable": 1,
@@ -874,7 +861,7 @@
     },
     {
       "key": "糖果搜",
-      "name": "🍬┃KAYVID┃糖果┃搜索",
+      "name": "🍬┃KAYVID┃糖果",
       "type": 3,
       "api": "csp_TaiChiGuard",
       "searchable": 1,
@@ -887,7 +874,7 @@
     },
     {
       "key": "音海",
-      "name": "❤️┃KAYVID┃音海┃搜索",
+      "name": "❤️┃KAYVID┃音海",
       "type": 3,
       "api": "csp_YinHaiGuard",
       "searchable": 1,
@@ -897,7 +884,7 @@
     },
     {
       "key": "爱盘",
-      "name": "❤️┃KAYVID┃爱盘┃搜索",
+      "name": "❤️┃KAYVID┃爱盘",
       "type": 3,
       "api": "csp_AiPanGuard",
       "searchable": 1,
@@ -907,7 +894,7 @@
     },
     {
       "key": "云搜",
-      "name": "☁️┃KAYVID┃云搜┃搜索",
+      "name": "☁️┃KAYVID┃云搜",
       "type": 3,
       "api": "csp_YunPanPanGuard",
       "searchable": 1,
@@ -917,7 +904,7 @@
     },
     {
       "key": "度搜",
-      "name": "🦈┃KAYVID┃度搜┃搜索",
+      "name": "🦈┃KAYVID┃度搜",
       "type": 3,
       "api": "csp_BdxdGuard",
       "searchable": 1,
@@ -927,7 +914,7 @@
     },
     {
       "key": "找盘",
-      "name": "🌧┃KAYVID┃找盘┃搜索",
+      "name": "🌧┃KAYVID┃找盘",
       "type": 3,
       "api": "csp_V2PanGuard",
       "searchable": 1,
@@ -937,7 +924,7 @@
     },
     {
       "key": "push_agent",
-      "name": "🛴┃KAYVID┃手机┃推送",
+      "name": "🛴┃KAYVID┃推送",
       "type": 3,
       "api": "csp_PushGuard",
       "searchable": 0,
@@ -1061,10 +1048,11 @@
     {
       "name": "live①",
       "type": 0,
-      "url": "https://github.356635.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dmianfeibuhuaqian%26json%3Dtrue",
       "epg": "http://epg.51zmt.top:8000/api/diyp?ch={name}&date={date}",
       "playerType": 1,
-      "timeout": 10
+      "timeout": 10,
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
     }
   ],
   "ijk": [
