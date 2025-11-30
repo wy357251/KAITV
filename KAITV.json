@@ -1,1003 +1,613 @@
 {
-  "spider": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/1.jar;md5;403a59bd559cc36fe67544e5de66e774",
+  "spider": "https://github.356635.xyz/https://raw.githubusercontent.com/wy357251/KAITV/main/1.jar;md5;7c03297c89aa832f88092d4567664ad8",
   "sites": [
     {
       "key": "豆瓣",
       "name": "🎟┃KAYVID┃12.1更新🎉",
       "type": 3,
-      "api": "csp_DoubanGuard",
+      "api": "csp_Douban",
       "searchable": 0,
-      "changeable": 1
+      "changeable": 1,
+      "indexs": 1,
+      "ext": "./lib/douban.json"
     },
     {
-      "key": "配置中心",
+      "key": "网盘配置",
       "name": "👨‍🍳‍┃KAYVID┃配置中心",
       "type": 3,
-      "api": "csp_ConfigGuard",
+      "jar": "./lib/pg.jar;md5;e38eae28a7e71dab9a634f9b650c3460",
+      "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.43
-      }
+      "ext": "./lib/tokenm.json"
     },
     {
-      "key": "本地播放",
-      "name": "💻┃KAYVID┃本地磁盘",
+      "key": "yydsys",
+      "name": "┃KAYVID┃影音",
       "type": 3,
-      "api": "csp_LocalGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 5
-    },
-    {
-      "key": "二小",
-      "name": "🦢┃KAYVID┃二小4K",
-      "type": 3,
-      "api": "csp_ErXiaoGuard",
-      "searchable": 1,
+      "api": "csp_Wobg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 25
-    },
+      "timeout": 60,
+      "ext": "./lib/wogg.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"
+    },	
     {
-      "key": "双星",
-      "name": "🤩┃KAYVID┃双星4K",
+      "key": "Wogg",
+      "name": "┃KAYVID┃玩偶",
       "type": 3,
-      "api": "csp_Star2Guard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 25
-    },
-    {
-      "key": "玩偶",
-      "name": "👽┃KAYVID┃玩偶4K",
-      "type": 3,
-      "api": "csp_WoggGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 30
-    },
-    {
-      "key": "立播版",
-      "name": "🐰┃KAYVID┃立播4K",
-      "type": 3,
-      "api": "csp_LibvioGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 30
-    },
-    {
-      "key": "蜡笔",
-      "name": "👠┃KAYVID┃蜡笔4K",
-      "type": 3,
-      "api": "csp_LabiGuard",
-      "searchable": 1,
+      "api": "csp_Wogg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 25
+      "timeout": 60,
+      "ext": "./lib/wogg.json$$$http://wogg.xxooo.cf/$$$noproxy$$$1$$$./lib/wogg.json"
     },
     {
-      "key": "木偶",
-      "name": "🪵┃KAYVID┃木偶4K",
+      "key": "Mogg",
+      "name": "┃KAYVID┃木偶",
       "type": 3,
-      "api": "csp_MuouGuard",
-      "searchable": 1,
+      "api": "csp_Wobg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 25
+      "timeout": 60,
+      "ext": "./lib/wogg.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json"
     },
     {
-      "key": "多多",
-      "name": "🪅┃KAYVID┃多多4K",
+      "key": "yyds",
+      "name": "┃KAYVID┃多多",
       "type": 3,
-      "api": "csp_DuoDuoGuard",
-      "searchable": 1,
+      "api": "csp_Wobg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 25
+      "timeout": 60,
+      "ext": "./lib/wogg.json$$$https://tv.yydsys.cc/$$$proxy$$$1$$$./lib/wogg.json"
     },
     {
-      "key": "小飒",
-      "name": "👨🏻‍🦱┃KAYVID┃小飒4K",
+      "key": "夸克至臻",
+      "name": "┃KAYVID┃至臻",
       "type": 3,
-      "api": "csp_XsayangGuard",
-      "searchable": 1,
+      "api": "csp_Wobg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 25
+      "timeout": 60,
+      "ext": "./lib/wogg.json$$$https://mihdr.top$$$noproxy$$$1$$$./lib/wogg.json"
     },
     {
-      "key": "至臻",
-      "name": "💌┃KAYVID┃至臻4K",
+      "key": "夸克奥秘",
+      "name": "┃KAYVID┃奥秘",
       "type": 3,
-      "api": "csp_ZhiZhenGuard",
-      "searchable": 1,
+      "api": "csp_Wobg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 25
+      "timeout": 60,
+      "ext": "./lib/wogg.json$$$https://vip.omii.top$$$noproxy$$$1$$$./lib/wogg.json"
     },
     {
-      "key": "虎斑",
-      "name": "🐯┃KAYVID┃虎斑4K",
+      "key": "蜡笔网盘",
+      "name": "┃KAYVID┃蜡笔",
       "type": 3,
-      "api": "csp_HuBanGuard",
-      "searchable": 1,
+      "api": "csp_Wobg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 25
+      "timeout": 60,
+      "ext": "./lib/wogg.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"
     },
     {
-      "key": "SeedHub",
-      "name": "🍀┃KAYVID┃SeedHub4K",
+      "key": "Hdhive",
+      "name": "┃KAYVID┃影巢",
       "type": 3,
-      "api": "csp_SeedHubGuard",
-      "searchable": 1,
+      "api": "csp_Hdhive",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 25
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$proxy$$$1"
     },
     {
-      "key": "光影",
-      "name": "🎥┃KAYVID┃光影4K",
+      "key": "Ppxzy",
+      "name": "┃KAYVID┃皮皮虾",
       "type": 3,
-      "api": "csp_GuanyingGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 30
-    },
-    {
-      "key": "云集",
-      "name": "🍊┃KAYVID┃云集4K",
-      "type": 3,
-      "api": "csp_YunJiGuard",
-      "searchable": 1,
+      "api": "csp_Ppxzy",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 25
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
     },
     {
-      "key": "极狐",
-      "name": "🦊┃KAYVID┃极狐4K",
+      "key": "Libvio",
+      "name": "┃KAYVID┃LIBVIO",
       "type": 3,
-      "api": "csp_Fox4kGuard",
-      "searchable": 1,
+      "api": "csp_Libvio",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 25
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://www.libvio.fun/$$$null"
     },
     {
-      "key": "盘他",
-      "name": "🎸┃KAYVID┃盘他4K",
+      "key": "hipy_js_低端",
+      "name": "┃KAYVID┃在线",
       "type": 3,
-      "api": "csp_PantaGuard",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
       "filterable": 1,
-      "timeout": 25
+      "order_num": 0,
+      "ext": "./lib/低端.js"
     },
     {
-      "key": "海绵",
-      "name": "🧽┃KAYVID┃海绵4K",
+      "key": "苹果影视",
+      "name": "┃KAYVID┃苹果",
       "type": 3,
-      "api": "csp_HaiMianGuard",
+      "jar": "./lib/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+      "api": "csp_LiteApple",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25
+      "filterable": 1
     },
     {
-      "key": "雷鲸",
-      "name": "🐳┃KAYVID┃雷鲸4K",
+      "key": "drpy_js_爱弹幕",
+      "name": "┃KAYVID┃动漫",
       "type": 3,
-      "api": "csp_LeiJingGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25
-    },
-    {
-      "key": "123分享",
-      "name": "🌂┃KAYVID┃1234K",
-      "type": 3,
-      "api": "csp_Time123Guard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 25
-    },
-    {
-      "key": "瓜子",
-      "name": "🍉┃KAYVID┃瓜子",
-      "type": 3,
-      "api": "csp_GuaziGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "热播",
-      "name": "📺┃KAYVID┃热播",
-      "type": 3,
-      "api": "csp_TianTianGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "site": 0
-      },
-      "timeout": 10
-    },
-    {
-      "key": "文才",
-      "name": "🌺┃KAYVID┃文才",
-      "type": 3,
-      "api": "csp_JpysGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "糯米",
-      "name": "🍓┃KAYVID┃糯米",
-      "type": 3,
-      "api": "csp_NmysGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "浪酷版",
-      "name": "👓┃KAYVID┃浪酷",
-      "type": 3,
-      "api": "csp_TianTianGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "site": 2
-      },
-      "timeout": 10
-    },
-    {
-      "key": "小苹果",
-      "name": "🍎┃KAYVID┃苹果",
-      "type": 3,
-      "api": "csp_XpgGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "云云",
-      "name": "☁️┃KAYVID┃云云",
-      "type": 3,
-      "api": "csp_YunYunGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "雄鹰",
-      "name": "🦅┃KAYVID┃雄鹰",
-      "type": 3,
-      "api": "csp_XiongYingGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "咖啡",
-      "name": "🍫┃KAYVID┃咖啡",
-      "type": 3,
-      "api": "csp_KaFeiGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "一起",
-      "name": "📺┃KAYVID┃一起",
-      "type": 3,
-      "api": "csp_YqsGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "仓鼠",
-      "name": "🐹┃KAYVID┃仓鼠",
-      "type": 3,
-      "api": "csp_CangShuGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "韩圈",
-      "name": "🦄┃KAYVID┃韩圈",
-      "type": 3,
-      "api": "csp_HanXiaoQuanGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "厂长",
-      "name": "🌸┃KAYVID┃厂长",
-      "type": 3,
-      "api": "csp_CzzyGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "csp_Btt",
-      "name": "🌞┃KAYVID┃比特",
-      "type": 3,
-      "api": "csp_BttGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "荐片",
-      "name": "⚔️┃KAYVID┃荐片",
-      "type": 3,
-      "api": "csp_JianpianGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "我的夸克",
-      "name": "🗽┃KAYVID┃夸克",
-      "type": 3,
-      "api": "csp_MyQuarkGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "我的UC",
-      "name": "😼┃KAYVID┃UC",
-      "type": 3,
-      "api": "csp_MyUcGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "我的百度",
-      "name": "☘️┃KAYVID┃百度",
-      "type": 3,
-      "api": "csp_MyBaiduGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "我的123",
-      "name": "🌂┃KAYVID┃123",
-      "type": 3,
-      "api": "csp_My123Guard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "我的天逸",
-      "name": "🧽┃KAYVID┃天逸",
-      "type": 3,
-      "api": "csp_My189Guard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "我的115",
-      "name": "🌷┃KAYVID┃115",
-      "type": 3,
-      "api": "csp_My115Guard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "我的阿里",
-      "name": "🐱┃KAYVID┃阿里",
-      "type": 3,
-      "api": "csp_MyAliGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "️爱看Bot",
-      "name": "⛅️┃KAYVID┃爱看",
-      "type": 3,
-      "api": "csp_IkanbotGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "电影天堂",
-      "name": "🎞️┃KAYVID┃天堂",
-      "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "锦鲤短剧",
-      "name": "🐟┃KAYVID┃锦鲤短剧",
-      "type": 3,
-      "api": "csp_JinliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10
+      "playerType": 1,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/爱弹幕.js"
     },
     {
       "key": "星芽短剧",
-      "name": "💖┃KAYVID┃星芽短剧",
+      "name": "┃KAYVID┃星芽",
       "type": 3,
-      "api": "csp_AppXYGuard",
+      "jar": "./lib/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+      "api": "csp_AppXY",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
-      "key": "甜圈短剧",
-      "name": "🌸┃KAYVID┃甜圈短剧",
+      "key": "爱你短剧",
+      "name": "┃KAYVID┃爱你",
       "type": 3,
-      "api": "csp_TianQuanGuard",
+      "jar": "./lib/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
       "filterable": 1,
-      "timeout": 10
+      "ext": "./lib/爱你短剧.json"
     },
     {
-      "key": "yhdm",
-      "name": "🌸┃KAYVID┃樱花动漫",
+      "key": "哔嘀影视",
+      "name": "┃KAYVID┃哔嘀",
       "type": 3,
-      "api": "csp_YHDMGuard",
+      "jar": "./lib/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+      "api": "csp_XYQHiker",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
       "filterable": 1,
-      "timeout": 15
+      "ext": "./lib/哔嘀影视.json"
     },
     {
-      "key": "动漫巴士",
-      "name": "🚌┃KAYVID┃巴士动漫",
+      "key": "贱贱",
+      "name": "┃KAYVID┃荐片",
       "type": 3,
-      "api": "csp_Dm84Guard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/jp.js"
+    },
+    {
+      "key": "布谷tv",
+      "name": "┃KAYVID┃布谷",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "timeout": 10
+      "jar": "./lib/XBPQ.jar",
+      "ext": {
+        "搜索链接": "https://www.bugutv.org/?cat=&s={wd}",
+        "简介": "◎简*介</p>&&</p>",
+        "线路数组": "entry-content u-text-format u-clearfix&&\"content-template",
+        "线路标题": "磁力",
+        "播放数组": "entry-content u-text-format u-clearfix&&content-template[不包含:网盘]",
+        "播放列表": "<p>&&</p>[包含:magnet]",
+        "分类": "4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
+        "分类链接": "https://www.bugutv.org/{cateId}/page/{catePg}",
+        "搜索数组": "class=\"entry-media\">&&</div"
+      }
+    },
+    {
+      "key": "haokongbu",
+      "name": "┃KAYVID┃磁力",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://m.haokongbu.top/",
+        "分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]",
+        "分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju",
+        "副标题": "class=\"typeset\"&&</i>",
+        "起始页": 2,
+        "倒序": 1,
+        "播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
+        "播放列表": "<ul>&&</div>[包含:magnet]"
+      },
+      "jar": "./lib/XBPQ.jar"
     },
     {
       "key": "新6V",
-      "name": "🧲┃KAYVID┃新6V",
+      "name": "┃KAYVID┃新6V",
       "type": 3,
-      "api": "csp_Xb6vGuard",
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+    },
+    {
+      "key": "磁力熊",
+      "name": "┃KAYVID┃磁力熊",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/磁力熊.js"
+    },
+    {
+      "key": "Xunlei8",
+      "name": "┃KAYVID┃迅雷",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "SeedHub",
+      "name": "┃KAYVID┃SeedHub",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "drpy_js_酷吧",
+      "name": "┃KAYVID┃酷吧",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/kuba.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "YingSo",
+      "name": "┃KAYVID┃影搜",
+      "type": 3,
+      "api": "csp_YingSo",
+      "timeout": 60,
+      "ext": "./lib/tokenm.json"
+    },
+    {
+      "key": "小纸条",
+      "name": "┃KAYVID┃小纸条",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./lib/tokenm.json$$$https://ali.gitcafe.ink/$$$null$$$1"
+    },
+    {
+      "key": "TGYunPan",
+      "name": "┃KAYVID┃TG搜索",
+      "type": 3,
+      "api": "csp_TGYunPan",
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1"
+    },
+    {
+      "key": "PanSearch",
+      "name": "┃KAYVID┃PanSearch",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json"
+    },
+    {
+      "key": "易搜",
+      "name": "┃KAYVID┃易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/yiso.txt$$$./lib/yiso.txt"
+    },
+    {
+      "key": "Qianfan",
+      "name": "┃KAYVID┃千帆",
+      "type": 3,
+      "api": "csp_Qianfan",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://pan.qianfan.app/$$$null$$$./lib/qianfan.txt$$$1"
+    },
+    {
+      "key": "秒搜",
+      "name": "┃KAYVID┃秒搜",
+      "type": 3,
+      "api": "csp_MiaoSou",
+      "timeout": 60,
+      "ext": "./lib/tokenm.json",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
+      "key": "Funletu",
+      "name": "┃KAYVID┃趣盘",
+      "type": 3,
+      "api": "csp_Funletu",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
+      "key": "DaPanSo",
+      "name": "┃KAYVID┃大盘",
+      "type": 3,
+      "api": "csp_DaPanSo",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1"
+    },
+    {
+      "key": "PikaSo",
+      "name": "┃KAYVID┃皮卡",
+      "type": 3,
+      "api": "csp_PikaSo",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://www.pikaso.top/$$$null",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
+      "key": "混合盘",
+      "name": "┃KAYVID┃混合",
+      "type": 3,
+      "api": "csp_HunHePan",
+      "timeout": 60,
+      "ext": "./lib/tokenm.json",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
+      "key": "AliShare",
+      "name": "┃KAYVID┃阿里",
+      "type": 3,
+      "api": "csp_AliShare",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "timeout": 20
-    },
-    {
-      "key": "聚合直播",
-      "name": "📽️┃KAYVID┃直播",
-      "type": 3,
-      "api": "csp_LivingGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "快手直播",
-      "name": "😎┃KAYVID┃快手",
-      "type": 3,
-      "api": "csp_KsLiveGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
       "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "timeout": 10
+        "type": "list",
+        "ratio": 1.1
+      }
     },
     {
-      "key": "虎牙直播",
-      "name": "🐯┃KAYVID┃虎牙",
+      "key": "UCShare",
+      "name": "┃KAYVID┃UC盘",
       "type": 3,
-      "api": "csp_HuyaGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "timeout": 10
-    },
-    {
-      "key": "瓜子看球",
-      "name": "⚽┃KAYVID┃看球",
-      "type": 3,
-      "api": "csp_GzSportGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "88看球",
-      "name": "⚽┃KAYVID┃88看球",
-      "type": 3,
-      "api": "csp_KanqiuGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "世界听书",
-      "name": "🎸┃KAYVID┃听书",
-      "type": 3,
-      "api": "csp_BookTingGuard",
+      "api": "csp_UCShare",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "timeout": 10
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$./lib/ucshare.txt$$$db$$$1",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
     },
     {
-      "key": "bilimd",
-      "name": "🅱┃KAYVID┃哔哩",
+      "key": "QuarkShare",
+      "name": "┃KAYVID┃夸克",
       "type": 3,
-      "api": "csp_BilimdGuard",
+      "api": "csp_QuarkShare",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "filterable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "./lib/quarkshare.txt$$$./lib/quarkshare.txt",
       "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "timeout": 10
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
+      "key": "115Share",
+      "name": "┃KAYVID┃115",
+      "type": 3,
+      "api": "csp_P115Share",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 120,
+      "ext": "./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
     },
     {
       "key": "bili",
-      "name": "🅱┃KAYVID┃哔哩",
+      "name": "┃KAYVID┃哔哩",
       "type": 3,
-      "api": "csp_BiliGuard",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
       "ext": {
-        "json": "https://raw.kkgithub.com/wy357251/KAITV/main/lib/bili.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "biliych",
-      "name": "🅱┃KAYVID┃歌曲",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://raw.kkgithub.com/wy357251/KAITV/main/lib/biliych.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "bilixs",
-      "name": "🅱┃KAYVID┃相声",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://raw.kkgithub.com/wy357251/KAITV/main/lib/bilixs.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "bilixp",
-      "name": "🅱┃KAYVID┃小品",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://raw.kkgithub.com/wy357251/KAITV/main/lib/bilixp.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚┃KAYVID┃少儿",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://raw.kkgithub.com/wy357251/KAITV/main/lib/shaoer.bmp"
+        "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
+        "cookie": ""
       }
     },
     {
-      "key": "小学课堂",
-      "name": "📚┃KAYVID┃小学",
+      "key": "JustLive",
+      "name": "┃KAYVID┃直播",
       "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
+      "api": "csp_JustLive",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Yinyuetai",
+      "name": "┃KAYVID┃音悦",
+      "type": 3,
+      "api": "csp_Yinyuetai",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "FirstAid",
+      "name": "┃KAYVID┃急救 ",
+      "type": 3,
+      "api": "csp_FirstAid",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": {
-        "json": "https://raw.kkgithub.com/wy357251/KAITV/main/lib/xxkt.bmp"
-      }
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚┃KAYVID┃初中",
-      "type": 3,
-      "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://raw.kkgithub.com/wy357251/KAITV/main/lib/czkt.bmp"
+        "ratio": 3.8
       }
-    },
-    {
-      "key": "高中教育",
-      "name": "📚┃KAYVID┃高中",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://raw.kkgithub.com/wy357251/KAITV/main/lib/gzkt.bmp"
-      }
-    },
-    {
-      "key": "csp_AListGuard",
-      "name": "🦋┃KAYVID┃AList",
-      "type": 3,
-      "api": "csp_AListGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": "file://TV/alist.json",
-      "timeout": 15
-    },
-    {
-      "key": "csp_QuPanSouGuard",
-      "name": "🤓┃KAYVID┃趣盘",
-      "type": 3,
-      "api": "csp_QuPanSouGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 25
-    },
-    {
-      "key": "太极",
-      "name": "☯️┃KAYVID┃太极",
-      "type": 3,
-      "api": "csp_TaiChiGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "taichi": 1
-      },
-      "timeout": 25
-    },
-    {
-      "key": "糖果搜",
-      "name": "🍬┃KAYVID┃糖果",
-      "type": 3,
-      "api": "csp_TaiChiGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "taichi": 2
-      },
-      "timeout": 25
-    },
-    {
-      "key": "音海",
-      "name": "❤️┃KAYVID┃音海",
-      "type": 3,
-      "api": "csp_YinHaiGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 25
-    },
-    {
-      "key": "爱盘",
-      "name": "❤️┃KAYVID┃爱盘",
-      "type": 3,
-      "api": "csp_AiPanGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 25
-    },
-    {
-      "key": "云搜",
-      "name": "☁️┃KAYVID┃云搜",
-      "type": 3,
-      "api": "csp_YunPanPanGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 25
-    },
-    {
-      "key": "度搜",
-      "name": "🦈┃KAYVID┃度搜",
-      "type": 3,
-      "api": "csp_BdxdGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 25
-    },
-    {
-      "key": "找盘",
-      "name": "🌧┃KAYVID┃找盘",
-      "type": 3,
-      "api": "csp_V2PanGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 25
-    },
-    {
-      "key": "push_agent",
-      "name": "🛴┃KAYVID┃推送",
-      "type": 3,
-      "api": "csp_PushGuard",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "timeout": 25
     }
   ],
-  "parses": [
+  "lives": [
     {
-      "name": "聚合1",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "聚合0",
-      "type": 3,
-      "url": "Web"
-    },
-    {
-      "name": "ikun",
+      "name": "live.ipv6",
       "type": 0,
-      "url": "https://jx.hls.one/?url="
+      "url": "http://127.0.0.1:10079/p/0/proxy/https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "77",
+      "name": "live.ipv6.m3u",
       "type": 0,
-      "url": "https://jx.77flv.cc/?url="
+      "url": "http://127.0.0.1:10079/p/0/proxy/https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "A6",
+      "name": "live.ipv6.local",
       "type": 0,
-      "url": "https://pl.a6club.com/player/analysis.php?v="
+      "url": "./lib/live.ipv6.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "8090",
+      "name": "live.fan",
       "type": 0,
-      "url": "https://www.8090g.cn/?url="
+      "url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "M3u8TV",
+      "name": "YTLive",
       "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
+      "playerType": 1,
+      "url": "./lib/yo21.txt"
     },
     {
-      "name": "CK",
+      "name": "直播",
       "type": 0,
-      "url": "https://www.ckplayer.vip/jiexi/?url="
+      "playerType": 1,
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "冰豆",
+      "name": "TXT",
       "type": 0,
-      "url": "https://bd.jx.cn/?url="
+      "playerType": 1,
+      "url": "./lib/live.txt",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
     },
     {
-      "name": "XY",
-      "type": 0,
-      "url": "https://jx.xymp4.cc/?url="
-    },
-    {
-      "name": "推荐",
+      "name": "Json",
       "type": 1,
-      "url": "https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url="
+      "playerType": 1,
+      "url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
     },
     {
-      "name": "臻享",
-      "type": 1,
-      "url": "https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="
+      "name": "live.feimao",
+      "type": 0,
+      "playerType": 1,
+      "url": "http://127.0.0.1:10079/p/0/proxy/http://我不是.肥猫.live/TV/tvzb.txt",
+      "ua": "okhttp/3.12.13",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "优选",
-      "type": 1,
-      "url": "http://1.94.221.189:88/algorithm.php?url="
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=live&proxy=&url="
+          ]
+        }
+      ]
     }
   ],
   "doh": [
@@ -1044,206 +654,103 @@
       ]
     }
   ],
-  "lives": [
+  "rules": [
     {
-      "name": "live①",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dmianfeibuhuaqian%26json%3Dtrue",
-      "epg": "http://epg.51zmt.top:8000/api/diyp?ch={name}&date={date}",
-      "playerType": 1,
-      "timeout": 10,
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
-    }
-  ],
-  "ijk": [
-    {
-      "group": "软解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
+      "name": "proxy",
+      "hosts": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+        ".*nivod.*",
+        "*.t4tv.hz.cz",
+        ".*ulivetv.*"
       ]
     },
     {
-      "group": "硬解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
+      "host": "www.djuu.com",
+      "rule": [
+        "mp4.djuu.com",
+        "m4a"
       ]
-    }
-  ],
-  "proxy": [
-    "raw.githubusercontent.com",
-    "googlevideo.com",
-    "cdn.v82u1l.com",
-    "cdn.iz8qkg.com",
-    "cdn.kin6c1.com",
-    "c.biggggg.com",
-    "c.olddddd.com",
-    "haiwaikan.com",
-    "www.histar.tv",
-    "youtube.com",
-    "uhibo.com",
-    ".*boku.*",
-    ".*nivod.*",
-    ".*ulivetv.*",
-    "iill.top"
-  ],
-  "rules": [
+    },
     {
-      "name": "cl",
-      "hosts": [
-        "magnet"
+      "host": "www.sharenice.net",
+      "rule": [
+        "huoshan.com",
+        "/item/video/"
       ],
-      "regex": [
-        "最 新",
-        "直 播",
-        "更 新"
+      "filter": []
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "sovv.qianpailive.com",
+        "vid="
+      ],
+      "filter": []
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "douyin.com",
+        "/play/"
+      ]
+    },
+    {
+      "host": "m.ysxs8.vip",
+      "rule": [
+        "ysting.ysxs8.vip:81",
+        "xmcdn.com"
+      ],
+      "filter": []
+    },
+    {
+      "host": "hdmoli.com",
+      "rule": [
+        ".m3u8"
+      ]
+    },
+    {
+      "host": "https://api.live.bilibili.com",
+      "rule": [
+        "bilivideo.com",
+        "/index.m3u8"
+      ],
+      "filter": [
+        "data.bilibili.com/log/web",
+        "i0.hdslb.com/bfs/live/"
+      ]
+    },
+    {
+      "host": "www.agemys.cc",
+      "rule": [
+        "cdn-tos",
+        "obj/tos-cn"
+      ]
+    },
+    {
+      "host": "www.fun4k.com",
+      "rule": [
+        "https://hd.ijycnd.com/play",
+        "index.m3u8"
+      ]
+    },
+    {
+      "host": "zjmiao.com",
+      "rule": [
+        "play.videomiao.vip/API.php",
+        "time=",
+        "key=",
+        "path="
       ]
     },
     {
@@ -1265,21 +772,12 @@
       ]
     },
     {
-      "name": "农民嗅探",
+      "name": "農民嗅探",
       "hosts": [
         "toutiaovod.com"
       ],
       "regex": [
         "video/tos/cn"
-      ]
-    },
-    {
-      "name": "七新嗅探",
-      "hosts": [
-        "api.52wyb.com"
-      ],
-      "regex": [
-        "m3u8?pt=m3u8"
       ]
     },
     {
@@ -1292,7 +790,7 @@
       ]
     },
     {
-      "name": "毛驴",
+      "name": "毛驢",
       "hosts": [
         "www.maolvys.com"
       ],
@@ -1301,40 +799,168 @@
       ]
     },
     {
-      "name": "czzy",
+      "name": "磁力广告",
       "hosts": [
-        "10086.cn"
+        "magnet"
       ],
       "regex": [
-        "/storageWeb/servlet/downloadServlet"
-      ]
-    },
-    {
-      "name": "bdys",
-      "hosts": [
-        "bytetos.com",
-        "byteimg.com",
-        "bytednsdoc.com",
-        "pstatp.com"
-      ],
-      "regex": [
-        "/tos-cn"
-      ],
-      "exclude": [
-        ".m3u8"
-      ]
-    },
-    {
-      "name": "bdys10",
-      "hosts": [
-        "bdys10.com"
-      ],
-      "regex": [
-        "/obj/"
-      ],
-      "exclude": [
-        ".m3u8"
+        "更多",
+        "社 區",
+        "x u u",
+        "最 新",
+        "直 播",
+        "更 新",
+        "社 区",
+        "有 趣",
+        "英皇体育",
+        "新片首发",
+        "UUE29"
       ]
     }
-  ]
+  ],
+  "parses": [
+    {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "杰森",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "战狼",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url="
+    },
+    {
+      "name": "ok",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "bozrc",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "leshi",
+          "LS",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": ""
+        }
+      }
+    },
+    {
+      "name": "不累",
+      "type": 0,
+      "url": "https://blbfq.f3322.net/player/analysis.php?v=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "qq",
+          "letv",
+          "sohu",
+          "youku",
+          "mgtv",
+          "bilibili",
+          "wasu",
+          "xigua",
+          "1905"
+        ]
+      }
+    },
+    {
+      "name": "cod",
+      "type": 0,
+      "url": "https://ksksl.codjx.com/?url="
+    },
+    {
+      "name": "byg解析",
+      "type": 0,
+      "url": "https://byg.ziqj5.shop/?url="
+    },
+    {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "365",
+      "type": 0,
+      "url": "https://chaxun.truechat365.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "iqiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+    {
+      "name": "26db",
+      "type": 0,
+      "url": "http://vip.26db.cn/g/?url="
+    },
+    {
+      "name": "看看",
+      "type": 0,
+      "url": "https://jx.m3u8.pw/?url="
+    },
+    {
+      "name": "FreeOK",
+      "type": 0,
+      "url": "https://play.86516.tk/OKPlayer/?url="
+    },
+    {
+      "name": "free",
+      "type": 0,
+      "url": "https://h5.freejson.xyz/player/?url="
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu"
+  ],
 }
